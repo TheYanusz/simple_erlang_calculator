@@ -1,4 +1,4 @@
-PHONY: format, compile
+PHONY: format compile
 
 format:
 	@rebar3 format 
